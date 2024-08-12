@@ -3,7 +3,7 @@
       { "src": "src/html/index.html", "use": "@vercel/static" }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "/index.html" }
+      { "src": "/(.*)", "dest": "/src/$1" }
     ]
   }
   
