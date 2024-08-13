@@ -90,7 +90,8 @@ function addLighting(scene) {
 }
 
 function fetchTLEsFromCelestrak(callback) {
-  const url = 'https://celestrak.org/NORAD/elements/gp.php?GROUP=visual&FORMAT=tle';
+  // const url = 'https://celestrak.org/NORAD/elements/gp.php?GROUP=visual&FORMAT=tle';
+  const url = 'https://celestrak.org/NORAD/elements/gp.php?GROUP=active&FORMAT=tle';
 
   fetch(url)
     .then((response) => response.text())
