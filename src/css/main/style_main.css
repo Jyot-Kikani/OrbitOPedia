@@ -146,7 +146,7 @@ section {
 }
 
 section.hero {
-  background-image: url("../../Images/Homepage/hero_bg.jpeg");
+  background-image: url("/Homepage/hero_bg.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -206,7 +206,7 @@ section.hero > img {
 }
 
 section.quote {
-  background-image: url("../../Images/Homepage/starry_bg.jpg");
+  background-image: url("/Homepage/starry_bg.jpg");
   background-size: cover;
   background-position: center;
   height: fit-content;
@@ -240,7 +240,7 @@ section.quote > .quote_text > div {
 section.stats {
   flex-direction: row;
   justify-content: space-around;
-  background-image: url("../../Images/Homepage/launch_bg.jpg");
+  background-image: url("/Homepage/launch_bg.jpg");
   background-size: cover;
   background-position: bottom;
   /* border: 1px solid white;  */
@@ -359,13 +359,13 @@ section.stats .text {
 
 section.simulation,
 section.classifier {
-  background-image: url("../../Images/Homepage/starry_bg.jpg");
+  background-image: url("/Homepage/starry_bg.jpg");
   background-position: center;
   background-size: cover;
 }
 
 section.rockets {
-  background-image: url("../../Images/Homepage/launch_dark_bg.jpg");
+  background-image: url("/Homepage/launch_dark_bg.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -402,7 +402,7 @@ section.classifier .card {
 }
 
 section.simulation .image {
-  background-image: url("../../Images/Homepage/tracker_ss.png");
+  background-image: url("/Homepage/tracker_ss.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -410,7 +410,7 @@ section.simulation .image {
 }
 
 section.rockets .image {
-  background-image: url("../../Images/Homepage/rockets_ss.jpg");
+  background-image: url("/Homepage/rockets_ss.jpg");
   background-size: 220%;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -418,7 +418,7 @@ section.rockets .image {
 }
 
 section.classifier .image {
-  background-image: url("../../Images/Homepage/galaxy.jpg");
+  background-image: url("/Homepage/galaxy.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -539,7 +539,7 @@ footer ul {
 }
 
 footer li::before {
-  background-image: url("../../Images/Icons/logo_transparent_white.png");
+  background-image: url("/Icons/logo_transparent_white.png");
   content: "";
   background-size: contain;
   display: inline-block;

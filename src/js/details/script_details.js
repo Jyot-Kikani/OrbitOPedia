@@ -2,7 +2,7 @@ const rocketData_Object =
 [
   {
     "id": "001",
-    "image": "../Images/Rockets/Falcon9.jpg",
+    "image": "/Rockets/Falcon9.jpg",
     "images": [
       "https://cdn.mos.cms.futurecdn.net/4XiA59LTWoSiBdFP7oqhY-1200-80.jpg",
       "https://rocketstem.b-cdn.net/wp-content/uploads/2020/11/EmvV4u1UcAAnvjg.jpeg",
@@ -30,7 +30,7 @@ const rocketData_Object =
   },
   {
     "id": "002",
-    "image": "../Images/Rockets/alpha.jpg",
+    "image": "/Rockets/alpha.jpg",
     "images": [
       "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/09/alpha-prelaunch.jpg?fit=879%2C495&ssl=1",
       "https://assets.newatlas.com/dims4/default/db9a356/2147483647/strip/true/crop/4000x2250+0+0/resize/2880x1620!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Ffirefly-alpha.jpeg",
@@ -58,7 +58,7 @@ const rocketData_Object =
   },
   {
     "id": "003",
-    "image": "../Images/Rockets/Ariane5.jpg",
+    "image": "/Rockets/Ariane5.jpg",
     "images": [
       "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%2851773093465%29.jpg",
       "https://www.spacequip.eu/wp-content/uploads/2023/07/Ariane-5.jpg",
@@ -86,7 +86,7 @@ const rocketData_Object =
   },
   {
     "id": "004",
-    "image": "../Images/Rockets/AtlasV.webp",
+    "image": "/Rockets/AtlasV.webp",
     "images": [
       "https://assets.aboutamazon.com/dims4/default/b6f3910/2147483647/strip/false/crop/1920x1080+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fd5%2Fde%2F25830dc840beb5f7c3c418d12d37%2Famazoninspace.jpg",
       "https://cdn.arstechnica.net/wp-content/uploads/2023/09/53178039780_335b0de75b_k-800x533.jpg",
@@ -114,7 +114,7 @@ const rocketData_Object =
   },
   {
     "id": "005",
-    "image": "../Images/Rockets/Electron.jpg",
+    "image": "/Rockets/Electron.jpg",
     "images": [
       "https://room.eu.com/images/contents/ElectronRocketRocketLab.jpg",
       "https://techcrunch.com/wp-content/uploads/2019/11/EKM2M7VVAAAx8CU.jpeg",
@@ -450,7 +450,7 @@ const rocketData_Object =
   },
   {
     "id": "017",
-    "image": "../Images/Rockets/LongMarch2D.jpg",
+    "image": "/Rockets/LongMarch2D.jpg",
     "images": ["https://news.cgtn.com/news/2021-06-11/China-launches-four-satellites-onboard-a-Long-March-2D-rocket-110h8HNtQ0E/img/ff1cf88cb70a4f43b3301775b969938b/ff1cf88cb70a4f43b3301775b969938b.jpeg", "https://images.firstpost.com/wp-content/uploads/2020/06/1548px-Long_March_2D_launching_VRSS-1_afar-1.jpg", "https://obj.shine.cn/files/2020/06/12/3c2c9ea0-1111-4a07-9156-a1136a905637_0.jpg"],
     "name": "Long March 2D",
     "org": "SAST",
